@@ -1,0 +1,29 @@
+.main-container{
+    position: relative;
+    background-image: url("Dartmouth.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+    height: 982px;
+  
+}
+
+h1{
+    color: white;
+    font-size: 80px;
+}
+
+label{
+    color: aliceblue;
+}
+
+#result-display label {
+    margin: auto;
+    font-size: 60px;
+    margin-left: 240px;
+    color: #25571c;
+    font-family: serif  ;
+}
+
+#result-display{
+    margin-top: 100px;
+}

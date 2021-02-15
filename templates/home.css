@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    margin: 40px;
+}
+
+.navbar {
+    display : flex;
+    background-color: #00397E; /*, #39414f*/;
+    opacity: 80%;
+    justify-content: left;
+   }
+   
+   
+   .navbar div {
+       display: inline-block;
+       padding: 10px;
+       height: 100%;
+   }
+   
+   .navbar div :hover{
+       background-color: #0f1945;
+   }
+   
+   .navbar div a{
+       text-transform: uppercase;
+       text-decoration: none;
+       color: white;
+       font-size: 25px;
+       font-family: "PT Mono";
+   }
+
+   ul{
+    padding: "10px";
+    background-color: #48a1fa;
+    color: white;
+    
+   }
+   
+   ul li a{
+    color:white;    
+   }
+
+   li, a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: "PT Mono";
+   }
+
+h1{
+    color:white;
+}
+.main-container{
+    position: relative;
+    background-image: url("Dartmouth.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+    height: 982px;
+  
+}
+  
+
+  
+
+   
